@@ -1,4 +1,4 @@
-# QuestKeeper
+# QuestKeeper Character Tracker
 
 QuestKeeper is a web-based Dungeons & Dragons 5e character manager, originally created for the 2018 UC Davis WEB515 course: Creating Web Applications with AJAX.
 
