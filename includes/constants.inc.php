@@ -2,6 +2,6 @@
 ob_start();
 
 // Site constants
-$ROOT = 'http://2018questkeeper.localhost/';
+$ROOT = 'https://2018-questkeeper.fcjamison.com/';
 ob_end_flush();
 ?>
